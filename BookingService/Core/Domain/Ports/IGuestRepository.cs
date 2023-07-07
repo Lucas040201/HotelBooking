@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Domain.Entities;
 
 namespace Domain.Ports
 {
-    internal interface IGuestRepository
+    public interface IGuestRepository
     {
+        Task<Guest> Get(int Id);
+        Task<int> Save(Guest guest);
     }
 }
