@@ -97,3 +97,6 @@ F:\cursoC#\HotelBooking\BookingService\Tests\Domain\DomainTests\obj\Debug\net6.0
 F:\cursoC#\HotelBooking\BookingService\Tests\Domain\DomainTests\obj\Debug\net6.0\DomainTests.pdb
 F:\cursoC#\HotelBooking\BookingService\Tests\Domain\DomainTests\obj\Debug\net6.0\DomainTests.genruntimeconfig.cache
 F:\cursoC#\HotelBooking\BookingService\Tests\Domain\DomainTests\obj\Debug\net6.0\ref\DomainTests.dll
+F:\cursoC#\HotelBooking\BookingService\Tests\Domain\DomainTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\cursoC#\HotelBooking\BookingService\Tests\Domain\DomainTests\bin\Debug\net6.0\Domain.dll
+F:\cursoC#\HotelBooking\BookingService\Tests\Domain\DomainTests\bin\Debug\net6.0\Domain.pdb
